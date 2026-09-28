@@ -12,6 +12,10 @@ It has four missions: The Facility, Archive Complex, Blackout and Shapeshifter.
   the game to capture the mouse; pressing **Esc** frees the mouse and pauses the game.
 - **Phone or tablet:** hold it **sideways**. On-screen controls appear by themselves (see below).
   Touch controls are new, so please tell us how they feel.
+- **Full screen:** tap **FULL** (top right), or pause → **Full screen**; tap again to leave.
+  **On iPhone** Safari doesn't allow full screen for web pages. Instead tap **Share → Add to Home
+  Screen**, then open OUT OF PLACE from its home-screen icon: it plays full screen, sideways. To
+  leave, swipe up to go home as with any app.
 - **The first load takes a moment:** the game is about 40 MB.
 - The browser version looks a little simpler than the downloadable one, and may run slower. The
   pause menu shows the frame rate (FPS); please include it in your feedback.
